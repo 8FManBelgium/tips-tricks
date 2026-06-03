@@ -60,7 +60,10 @@ body {
 .hidden {
     opacity: 0;
     pointer-events: none;
-    transition: opacity 0.3s ease;
+}
+
+button {
+    transition: opacity 0.8s ease-in-out;
 }
 
 .photoshop-button {
