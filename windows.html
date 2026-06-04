@@ -9,7 +9,7 @@
 </head>
 <body>
      <section>
-        <a href="index.html" class="back-button" id="backButton">← Back to Home</a>
+        <a href="index.html" class="back-button" id="backButton">← Terug naar Home</a>
         <h1>Windows 11 tips en tricks</h1>
         <p>Welkom bij de Windows 11 tips en tricks page</p>
         <p>Bekijk de video lessen hieronder om te beginnen met het leren van windows in het Nederlands!</p>
@@ -44,13 +44,8 @@
     <script>
         const backButton = document.getElementById('backButton');
         if (backButton) {
-            backButton.addEventListener('click', function (event) {
-                event.preventDefault();
-                if (window.history.length > 1) {
-                    window.history.back();
-                } else {
-                    window.location.href = 'index.html';
-                }
+            backButton.addEventListener('click', function () {
+                window.location.href = 'index.html';
             });
         }
     </script>
