@@ -200,6 +200,6 @@ if (windowsButton) {
 // Optional: handle click on the Lessen button
 if (lessenButton) {
     lessenButton.addEventListener('click', () => {
-        window.location.href = '../stemmen/index.html';
+        window.location.href = 'stemmen.html';
     });
 }
