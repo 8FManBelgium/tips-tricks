@@ -8,7 +8,7 @@ dit is een website waar alle sites samen komen
 Alle lessen zijn te zien op youtube. klik eender welke tietel voor te leren:
 > 👍 ⭐⭐Like & scrijf in :⭐⭐ This gratis! 😀
 
-1. 💼 ⭐⭐3ds max afdeling(4u46min):⭐⭐ [Kijk op YouTube](https://www.youtube.com/watch?v=IifAhH5bsp4&list=PLisw4M_f0WIOWJ5w1SzOxOftBxsmydg9C)
+1. 💼 ⭐⭐3ds max afdeling(14u46min):⭐⭐ [Kijk op YouTube](https://www.youtube.com/watch?v=IifAhH5bsp4&list=PLisw4M_f0WIOWJ5w1SzOxOftBxsmydg9C)
 
 2. 🖼️ ⭐⭐photoshop afdeling(3u50min):⭐⭐ [kijk op Youtube](https://www.youtube.com/watch?v=KNBxp2Jq99I&list=PLE6785EFD8D69811E)
 
@@ -19,4 +19,4 @@ Alle lessen zijn te zien op youtube. klik eender welke tietel voor te leren:
 5. 💦 ⭐⭐Watsapp(5min):⭐⭐ [Kijk op Youtube](https://www.youtube.com/@ludobausmans/shorts)
 
 
-> ☑️☑️☑️ ⭐⭐Tip:⭐⭐ Voor het openen van de youtube Links, rechts-klik en kies "Open Link in new tab."
+> ☑️☑️☑️ ⭐⭐Tip:⭐⭐ Voor het openen van de youtube Links, rechts-klik en kies "Link openen in nieuw tabblad."
