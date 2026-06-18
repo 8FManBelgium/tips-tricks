@@ -30,61 +30,12 @@ body {
     display: block;
 }
 
-.start-button {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 10;
-    padding: 14px 28px;
-    font-size: 18px;
-    font-family: Roboto, sans-serif;
-    font-weight: 700;
-    color: #fff;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    background: rgba(6, 100, 220, 0.92);
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    border-radius: 999px;
-    box-shadow: 0 0 40px rgba(0, 170, 255, 0.35);
-    backdrop-filter: blur(10px);
-    cursor: pointer;
-}
 
-.start-button.hidden {
-    opacity: 0;
-    pointer-events: none;
-}
-
-/* General hidden utility */
-.hidden {
-    opacity: 0;
-    pointer-events: none;
-}
 
 button {
     transition: opacity 0.8s ease-in-out;
 }
 
-.timer-container {
-    position: absolute;
-    top: 200px;
-    right: 150px;
-    z-index: 10;
-    padding: 10px 18px;
-    font-size: 16px;
-    font-family: Roboto, sans-serif;
-    font-weight: 700;
-    color: #fff;
-    background: rgba(91, 223, 238, 0.5);
-    border: 1px solid rgba(255, 255, 255, 0.5);
-    border-radius: 8px;
-    box-shadow: 0 6px 20px rgba(220,20,60,0.18);
-}
-
-.timer-container.hidden {
-    display: none;
-}
 
 .photoshop-button {
     position: absolute;
@@ -273,11 +224,8 @@ button {
     .lessen-button {
         top: calc(50% + 100px);
     }
-    p{
-        hidden: true;
-    }
 
-    .timer-container {
+   .timer-container {
         position: fixed;
         left: 8px;
         right: 8px;
