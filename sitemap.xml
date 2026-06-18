@@ -35,5 +35,10 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
+    <loc>https://tips-tricks.be/3dsmax.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
 </urlset>
