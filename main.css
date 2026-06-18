@@ -225,7 +225,7 @@ button {
         top: calc(50% + 100px);
     }
 
-   .timer-container {
+    .timer-container {
         position: fixed;
         left: 8px;
         right: 8px;
@@ -261,4 +261,22 @@ position: absolute;
     text-align: center;
     margin-top: 10px;
     z-index: 10;
+}
+
+#soundBtn{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 50px;
+    background: #2563eb;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    z-index: 999;
+}
+
+#soundBtn:hover{
+    transform: scale(1.05);
 }
