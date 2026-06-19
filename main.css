@@ -132,7 +132,6 @@ button {
      h1{
        position: fixed;
         left: 10px;
-        transform: translateX(-50%);
         width: 80%;
     }
 
@@ -197,7 +196,6 @@ button {
     h1{
        position: fixed;
         left: 10px;
-        transform: translateX(-50%);
         width: 90%;
     }
    
